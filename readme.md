@@ -1,3 +1,3 @@
-# monokai
+# Monokai
 
-**monokai** is a theme for [Zed](https://zed.dev) based on the [Monokai Pro](https://monokai.pro) color scheme
+"A theme for Zed based on the Monokai Pro color scheme

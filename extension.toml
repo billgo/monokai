@@ -1,7 +1,7 @@
-id = "monokai"
-name = "monokai"
+id = "Monokai"
+name = "Monokai"
 version = "0.1.0"
 schema_version = 1
-authors = ["billgo <hi@billgo.me>"]
+authors = ["Billgo <hi@billgo.me>"]
 repository = "https://github.com/billgo/monokai"
-description = "a theme for Zed based on the Monokai Pro color scheme"
+description = "A theme for Zed based on the Monokai Pro color scheme"

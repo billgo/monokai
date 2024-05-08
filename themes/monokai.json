@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "monokai",
-  "author": "billgo",
+  "name": "Monokai",
+  "author": "Billgo",
   "themes": [
     {
-      "name": "monokai",
+      "name": "Monokai",
       "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
@@ -230,7 +230,7 @@
       }
     },
     {
-      "name": "monokai (Filter Octagon)",
+      "name": "Monokai (Filter Octagon)",
       "appearance": "dark",
       "style": {
         "background": "#282a3a",
