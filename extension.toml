@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Billgo <hi@billgo.me>"]
 repository = "https://github.com/billgo/monokai"
-description = "A theme for Zed based on the Monokai Pro color scheme"
+description = "Monokai is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface."

@@ -1,3 +1,3 @@
 # Monokai
 
-"A theme for Zed based on the Monokai Pro color scheme
+Monokai is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.
