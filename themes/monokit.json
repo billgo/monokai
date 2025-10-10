@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "monokai",
+  "name": "monokit",
   "author": "Billgo <hi@billgo.me>",
   "themes": [
     {
-      "name": "monokai",
+      "name": "monokit",
       "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
@@ -230,7 +230,7 @@
       }
     },
     {
-      "name": "monokai (Filter Octagon)",
+      "name": "monokit (Filter Octagon)",
       "appearance": "dark",
       "style": {
         "background": "#282a3a",
@@ -456,7 +456,7 @@
       }
     },
     {
-      "name": "monokai (Filter Ristretto)",
+      "name": "monokit (Filter Ristretto)",
       "appearance": "dark",
       "style": {
         "background": "#2c2525",
@@ -682,7 +682,7 @@
       }
     },
     {
-      "name": "monokai (Filter Spectrum)",
+      "name": "monokit (Filter Spectrum)",
       "appearance": "dark",
       "style": {
         "background": "#222222",
@@ -908,7 +908,7 @@
       }
     },
     {
-      "name": "monokai (Filter Machine)",
+      "name": "monokit (Filter Machine)",
       "appearance": "dark",
       "style": {
         "background": "#273136",
@@ -1134,7 +1134,7 @@
       }
     },
     {
-      "name": "monokai Classic",
+      "name": "monokit Classic",
       "appearance": "dark",
       "style": {
         "background": "#272822",
@@ -1360,7 +1360,7 @@
       }
     },
     {
-      "name": "monokai Darker",
+      "name": "monokit Darker",
       "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
@@ -1586,7 +1586,7 @@
       }
     },
     {
-      "name": "monokai Darker (Filter Octagon)",
+      "name": "monokit Darker (Filter Octagon)",
       "appearance": "dark",
       "style": {
         "background": "#282a3a",
@@ -1812,7 +1812,7 @@
       }
     },
     {
-      "name": "monokai Darker (Filter Ristretto)",
+      "name": "monokit Darker (Filter Ristretto)",
       "appearance": "dark",
       "style": {
         "background": "#2c2525",
@@ -2038,7 +2038,7 @@
       }
     },
     {
-      "name": "monokai Darker (Filter Spectrum)",
+      "name": "monokit Darker (Filter Spectrum)",
       "appearance": "dark",
       "style": {
         "background": "#222222",
@@ -2264,7 +2264,7 @@
       }
     },
     {
-      "name": "monokai Darker (Filter Machine)",
+      "name": "monokit Darker (Filter Machine)",
       "appearance": "dark",
       "style": {
         "background": "#273136",
@@ -2490,7 +2490,7 @@
       }
     },
     {
-      "name": "monokai Darker Classic",
+      "name": "monokit Darker Classic",
       "appearance": "dark",
       "style": {
         "background": "#272822",
