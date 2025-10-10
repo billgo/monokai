@@ -1,3 +1,3 @@
-# monokit
+# Monokit
 
-monokit is a color scheme and customized user interface theme for zed editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.
+Monokit is a Zed theme inspired by Monokai Pro color scheme. Designed with both aesthetics and usability in mind, it features carefully chosen color tones that form a refined and distraction-free interface.
