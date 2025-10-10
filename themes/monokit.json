@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "name": "Monokit (Light Ristretto)",
+      "name": "Monokit (Light Classic)",
       "appearance": "light",
       "style": {
         "background": "#faf4f2",
@@ -1374,7 +1374,7 @@
       }
     },
     {
-      "name": "Monokit (Light Classic)",
+      "name": "Monokit (Light Sunset)",
       "appearance": "light",
       "style": {
         "background": "#f8efe7",
