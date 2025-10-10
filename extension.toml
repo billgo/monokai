@@ -1,12 +1,11 @@
 id = "monokit"
-name = "monokit"
+name = "Monokit"
 version = "0.1.0"
 schema_version = 1
 authors = ["Billgo <hi@billgo.me>"]
 repository = "https://github.com/billgo/monokit"
-description = "Monokit is a Zed theme inspired by Monokai Pro. Simple colors. Clear contrasts. Nothing more, nothing less.."
+description = "Monokit is a Zed theme inspired by Monokai Pro color scheme. Simple colors. Clear contrasts. Nothing more, nothing less."
 license = "MIT"
 categories = ["theme", "color-scheme"]
-tags = ["theme", "color-scheme", "dark", "light", "monokai", "vscode", "neovim", "jetbrains", "terminal"]
-keywords = ["theme", "color-scheme", "dark", "light", "monokai", "vscode", "neovim", "jetbrains", "terminal"]
+keywords = ["theme", "color-scheme", "dark", "light", "monokai"]
 homepage = "https://monokit.billgo.me"
