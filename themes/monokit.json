@@ -1,10 +1,10 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "monokit",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Monokit",
   "author": "Billgo <hi@billgo.me>",
   "themes": [
     {
-      "name": "monokit",
+      "name": "Monokit (Default)",
       "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
@@ -23,12 +23,14 @@
         "editor.active_line_number": "#fcfcfa",
         "editor.active_wrap_guide": "#2d2a2e",
         "editor.background": "#2d2a2e",
+        "editor.document_highlight.read_background": "#434044",
         "editor.foreground": "#fcfcfa",
         "editor.gutter.background": "#2d2a2e",
         "editor.line_number": "#5b595c",
         "editor.subheader.background": "#333034",
         "editor.wrap_guide": "#474448",
         "element.background": "#403e41",
+        "element.hover": "#333034",
         "element.selected": "#fcfcfa0c",
         "elevated_surface.background": "#333034",
         "error": "#ff6188",
@@ -230,7 +232,7 @@
       }
     },
     {
-      "name": "monokit (Filter Octagon)",
+      "name": "Monokit (Filter Octagon)",
       "appearance": "dark",
       "style": {
         "background": "#282a3a",
@@ -456,7 +458,7 @@
       }
     },
     {
-      "name": "monokit (Filter Ristretto)",
+      "name": "Monokit (Filter Ristretto)",
       "appearance": "dark",
       "style": {
         "background": "#2c2525",
@@ -682,7 +684,7 @@
       }
     },
     {
-      "name": "monokit (Filter Spectrum)",
+      "name": "Monokit (Filter Spectrum)",
       "appearance": "dark",
       "style": {
         "background": "#222222",
@@ -908,7 +910,7 @@
       }
     },
     {
-      "name": "monokit (Filter Machine)",
+      "name": "Monokit (Filter Machine)",
       "appearance": "dark",
       "style": {
         "background": "#273136",
@@ -1134,7 +1136,7 @@
       }
     },
     {
-      "name": "monokit Classic",
+      "name": "Monokit Classic",
       "appearance": "dark",
       "style": {
         "background": "#272822",
@@ -1360,7 +1362,7 @@
       }
     },
     {
-      "name": "monokit Darker",
+      "name": "Monokit Darker",
       "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
@@ -1586,7 +1588,7 @@
       }
     },
     {
-      "name": "monokit Darker (Filter Octagon)",
+      "name": "Monokit Darker (Filter Octagon)",
       "appearance": "dark",
       "style": {
         "background": "#282a3a",
@@ -1812,7 +1814,7 @@
       }
     },
     {
-      "name": "monokit Darker (Filter Ristretto)",
+      "name": "Monokit Darker (Filter Ristretto)",
       "appearance": "dark",
       "style": {
         "background": "#2c2525",
@@ -2038,7 +2040,7 @@
       }
     },
     {
-      "name": "monokit Darker (Filter Spectrum)",
+      "name": "Monokit Darker (Filter Spectrum)",
       "appearance": "dark",
       "style": {
         "background": "#222222",
@@ -2264,7 +2266,7 @@
       }
     },
     {
-      "name": "monokit Darker (Filter Machine)",
+      "name": "Monokit Darker (Filter Machine)",
       "appearance": "dark",
       "style": {
         "background": "#273136",
@@ -2490,7 +2492,7 @@
       }
     },
     {
-      "name": "monokit Darker Classic",
+      "name": "Monokit Darker Classic",
       "appearance": "dark",
       "style": {
         "background": "#272822",
